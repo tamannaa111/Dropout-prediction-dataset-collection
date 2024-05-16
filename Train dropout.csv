@@ -1,0 +1,754 @@
+AG,GT,MS,EQF,EQM,FIL,UT,ST,CFS,CYS,CAR,ACG,NRC,IACB,S/W,EFA,SAC,ADIS,EAC,PNC,SFC,FSI,UPAS,LS,VBU,RP,PQ,PU,EW,Target Column
+21-25,Female,Married,Master's degree or higher,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,3rd y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,No,Satisfied,Yes,Yes,Yes,No,Moderately Influenced,Yes,Maybe,No,No,3,1,No working,Yes
+21-25,Male,Unmarried,Secondary school,Primary school,"35,000 - 50,000 BDT",private,National,CSE,3rd y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Extremely Satisfied,Yes,Yes,No,Yes,Significantly Influenced,Yes,No,No,No,2,0,No working,Yes
+21-25,Male,Unmarried,Higher Secondary school,Higher Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%,More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,No,Extremely Dissatisfied,No,Yes,No,No,Slightly Influenced,No,Yes,Yes,No,3,0,No working,No
+21-25,Male,Married,Master's degree or higher,Bachelor's degree,"Above 50,000 BDT",private,International,CSE,2nd y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,No,Dissatisfied,Yes,Yes,No,No,Significantly Influenced,No,Maybe,No,No relationship,2,1,No working,Yes
+21-25,Female,Married,Bachelor's degree,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,No,Satisfied,Yes,No,Yes,No,Slightly Influenced,Yes,Maybe,No,No,3,1,No working,No
+21-25,Female,Unmarried,Bachelor's degree,Secondary school,"35,000 - 50,000 BDT",private,International,CSE,2nd y,More than 50%,More than 3.50,1,Limited Knowledge(????? ?????),Yes,No,Satisfied,No,No,Yes,No,Slightly Influenced,Maybe,Maybe,No,No relationship,3,1,No working,No
+21-25,Female,Married,Bachelor's degree,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,No,Neutral,Yes,No,Maybe,No,Slightly Influenced,No,Yes,No,No relationship,2,1,No working,No
+21-25,Male,Unmarried,Master's degree or higher,Bachelor's degree,"Above 50,000 BDT",private,National,CSE,2nd y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Neutral,No,Maybe,No,No,Moderately Influenced,No,Maybe,No,Maybe,3,0,No working,No
+21-25,Male,Unmarried,Bachelor's degree,Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%,2.50-3.00,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Neutral,Yes,Yes,No,Yes,Significantly Influenced,No,Yes,No,No,2,1,part time,Yes
+21-25,Male,Married,Secondary school,Secondary school,"15,000 - 35,000 BDT",private,National,EEE,2nd y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Neutral,No,No,No,No,Slightly Influenced,Maybe,Yes,No,No,3,1,No working,No
+21-25,Female,Unmarried,Bachelor's degree,Bachelor's degree,"Above 50,000 BDT",private,National,CSE,3rd y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,No,Neutral,No,No,No,No,Prefer not to say,Maybe,Yes,No,No,3,0,No working,No
+21-25,Male,Unmarried,Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,3rd y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,Yes,Yes,No,Yes,Moderately Influenced,Yes,No,No,No,3,0,No working,Yes
+21-25,Male,Unmarried,Master's degree or higher,Higher Secondary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Neutral,No,No,No,No,Moderately Influenced,No,Yes,No,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Primary school,Primary school,"Above 50,000 BDT",private,International,CIVIL,2nd y,More than 50%,2.50-3.00,2,Limited Knowledge(????? ?????),No,No,Neutral,Maybe,No,No,No,Significantly Influenced,Yes,Yes,Yes,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Secondary school,Primary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Dissatisfied,Maybe,Yes,No,Yes,Significantly Influenced,Maybe,Yes,No,Yes,3,0,part time,Yes
+21-25,Female,Married,Higher Secondary school,Secondary school,"35,000 - 50,000 BDT",National,National,Others,3rd y,More than 50%,More than 3.50,2,Limited Knowledge(????? ?????),No,No,Satisfied,No,No,No,No,Slightly Influenced,Maybe,Yes,Maybe,No relationship,1,3,No working,No
+21-25,Male,Unmarried,Bachelor's degree,Secondary school,"35,000 - 50,000 BDT",private,International,EEE,2nd y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),No,Yes,Neutral,No,No,No,No,Slightly Influenced,Maybe,Yes,No,No relationship,3,0,No working,No
+21-25,Female,Married,Higher Secondary school,Secondary school,"35,000 - 50,000 BDT",National,National,Others,3rd y,Less than 50%,More than 3.50,1,Limited Knowledge(????? ?????),No,No,Satisfied,No,No,No,No,Slightly Influenced,Maybe,Yes,Maybe,No relationship,1,4,No working,No
+"
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+",
+21-25,Male,Unmarried,Bachelor's degree,Higher Secondary school,"15,000 - 35,000 BDT",private,National,EEE,2nd y,More than 50%,2.50-3.00,2,Limited Knowledge(????? ?????),Yes,Yes,Neutral,Yes,Yes,No,Yes,Significantly Influenced,Maybe,"
+",No,No relationship,3,1,No working,Yes
+21-25,Female,Unmarried,Bachelor's degree,Bachelor's degree,"Above 50,000 BDT",private,National,Pharmacy,2nd y,More than 50%,2.50-3.00,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Satisfied,No,Maybe,No,No,Moderately Influenced,Maybe,No,No,No,3,0,No working,No
+21-25,Female,Unmarried,Bachelor's degree,Secondary school,"Above 50,000 BDT",private,National,CSE,2nd y,Less than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,No,Neutral,Yes,No,No,No,Not Influenced,No,No,No,No relationship,3,1,No working,No
+21-25,Male,Unmarried,Bachelor's degree,Higher Secondary school,"Above 50,000 BDT",private,National,CSE,2nd y,More than 50%,3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Neutral,No,Yes,No,No,Prefer not to say,No,Maybe,No,No,2,0,part time,No
+21-25,Male,Unmarried,Prefer not to say,Prefer not to say,"15,000 - 35,000 BDT",private,National,CIVIL,3rd y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,No,Satisfied,No,No,No,No,Slightly Influenced,Maybe,Yes,No,No relationship,3,0,No working,No
+21-25,Female,Unmarried,Higher Secondary school,Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%,2.50-3.00,1,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,No,Neutral,Yes,Yes,Maybe,Yes,Slightly Influenced,Maybe,Yes,No,No,3,0,No working,Yes
+21-25,Male,Unmarried,Secondary school,Secondary school,"15,000 - 35,000 BDT",private,National,EEE,3rd y,More than 50%,2.50-3.00,3,Limited Knowledge(????? ?????),No,Yes,Neutral,Maybe,Yes,No,Yes,Slightly Influenced,Maybe,Yes,No,No relationship,3,1,No working,No
+21-25,Male,Unmarried,Bachelor's degree,Bachelor's degree,"35,000 - 50,000 BDT",private,National,EEE,2nd y,More than 50%,2.50-3.00,2,Limited Knowledge(????? ?????),Yes,No,Neutral,No,No,Maybe,Maybe,Prefer not to say,Maybe,Yes,No,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Bachelor's degree,Higher Secondary school,"Above 50,000 BDT",private,National,CSE,2nd y,More than 50%,2.50-3.00,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Dissatisfied,Yes,No,Yes,No,Moderately Influenced,No,No,Yes,No relationship,3,0,No working,Yes
+21-25,Male,Married,Secondary school,Primary school,"Below 15,000 BDT",private,National,EEE,3rd y,More than 50%,More than 3.50,0,Extensive Knowledge(?????? ????? ???),No,No,Neutral,Yes,Yes,Yes,Yes,Significantly Influenced,Maybe,Yes,No,No,3,0,No working,Yes
+21-25,Male,Married,Higher Secondary school,Secondary school,"15,000 - 35,000 BDT",private,International,CSE,2nd y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),No,Yes,Neutral,Yes,Yes,No,Yes,Slightly Influenced,Yes,No,No,No relationship,3,"
+",No working,Yes
+21-25,Male,Married,Prefer not to say,Prefer not to say,"15,000 - 35,000 BDT",private,International,CSE,2nd y,More than 50%,More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,No,Satisfied,No,Maybe,No,Maybe,Prefer not to say,No,Yes,No,No relationship,3,0,No working,No
+21-25,Female,Unmarried,Bachelor's degree,Master's degree or higher,"Above 50,000 BDT",private,International,CSE,3rd y,More than 50%,2.50-3.00,0,Limited Knowledge(????? ?????),Yes,No,Neutral,Yes,No,No,No,Significantly Influenced,No,Yes,No,No relationship,3,0,part time,No
+21-25,Male,Married,Master's degree or higher,Master's degree or higher,"15,000 - 35,000 BDT",private,International,EEE,3rd y,More than 50%,More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,No,Dissatisfied,Yes,Yes,Yes,Yes,Slightly Influenced,No,No,Yes,Yes,3,0,No working,Yes
+21-25,Male,Unmarried,Higher Secondary school,Bachelor's degree,"15,000 - 35,000 BDT",Public,National,CSE,4th y,More than 50%,More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,No,Dissatisfied,Yes,Maybe,No,Yes,Not Influenced,No,Maybe,Yes,"
+",3,0,No working,Yes
+21-25,Male,Unmarried,Bachelor's degree,Higher Secondary school,"Above 50,000 BDT",private,National,EEE,2nd y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,No,No,No,No,Not Influenced,Yes,Yes,No,No,3,"
+",No working,No
+21-25,Male,Unmarried,Higher Secondary school,Higher Secondary school,"15,000 - 35,000 BDT",private,National,EEE,3rd y,More than 50%,2.50-3.00,1,Limited Knowledge(????? ?????),No,Yes,Satisfied,No,Yes,No,Yes,Slightly Influenced,No,No,No,No,2,1,No working,Yes
+21-25,Male,Unmarried,Bachelor's degree,Secondary school,"Below 15,000 BDT",private,National,EEE,2nd y,More than 50%,2.50-3.00,1,Extensive Knowledge(?????? ????? ???),Maybe,Yes,Satisfied,Maybe,Yes,No,Yes,Slightly Influenced,No,Yes,No,No,3,"
+",No working,Yes
+21-25,Male,Unmarried,Primary school,Secondary school,"Below 15,000 BDT",private,National,EEE,2nd y,More than 50%,More than 3.50,0,Extensive Knowledge(?????? ????? ???),Yes,No,Extremely Satisfied,No,No,No,No,Slightly Influenced,Maybe,Yes,No,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Prefer not to say,Prefer not to say,"35,000 - 50,000 BDT",private,International,CSE,3rd y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,No,Neutral,Yes,Maybe,No,Yes,Significantly Influenced,Maybe,No,Yes,No,3,"
+",No working,Yes
+21-25,Male,Unmarried,Master's degree or higher,Higher Secondary school,"Above 50,000 BDT",private,National,CSE,2nd y,Less than 50%,2.50-3.00,3,Limited Knowledge(????? ?????),No,No,Extremely Dissatisfied,Yes,Maybe,No,Yes,Moderately Influenced,No,No,No,No relationship,3,0,No working,Yes
+21-25,Female,Unmarried,Bachelor's degree,Bachelor's degree,"Above 50,000 BDT",private,National,CSE,2nd y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Dissatisfied,Maybe,No,No,No,Not Influenced,No,Yes,No,No,3,0,No working,No
+21-25,Male,Unmarried,Master's degree or higher,Bachelor's degree,"Above 50,000 BDT",private,International,CSE,2nd y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Extremely Dissatisfied,No,No,No,No,Significantly Influenced,Maybe,No,No,No,2,1,No working,No
+21-25,Female,Unmarried,Master's degree or higher,Secondary school,"15,000 - 35,000 BDT",private,National,Humanities,1st y,More than 50%,2.50-3.00,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Satisfied,No,No,No,Maybe,Not Influenced,Yes,Yes,No,No relationship,3,"
+",No working,No
+21-25,Male,Unmarried,Higher Secondary school,Higher Secondary school,"35,000 - 50,000 BDT",private,International,CSE,2nd y,Less than 50%,3.00 - 3.50,5,Limited Knowledge(????? ?????),Yes,No,Dissatisfied,Yes,Yes,No,Maybe,Moderately Influenced,No,Yes,Maybe,No,2,0,part time,Yes
+21-25,Male,Unmarried,Master's degree or higher,Master's degree or higher,"Above 50,000 BDT",private,National,MCT,2nd y,More than 50%,3.00 - 3.50,1,Limited Knowledge(????? ?????),Yes,No,Satisfied,No,Maybe,Yes,No,Not Influenced,Yes,No,No,No,3,0,No working,No
+21-25,Male,Unmarried,Bachelor's degree,Higher Secondary school,"Above 50,000 BDT",private,National,CSE,2nd y,More than 50%,3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,Yes,Satisfied,No,Yes,No,Yes,Moderately Influenced,No,No,No,No relationship,2,0,No working,Yes
+21-25,Male,Unmarried,Master's degree or higher,Prefer not to say,"Above 50,000 BDT",private,National,EEE,2nd y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,No,Satisfied,No,No,No,No,Moderately Influenced,Yes,Yes,No,No,2,1,No working,No
+18-20,Female,Unmarried,Master's degree or higher,Master's degree or higher,"35,000 - 50,000 BDT",private,International,CSE,1st y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,No,Neutral,Maybe,No,No,No,Prefer not to say,Maybe,Yes,No,No,3,0,No working,No
+21-25,Male,Unmarried,Secondary school,Primary school,"15,000 - 35,000 BDT",private,National,CSE,1st y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Dissatisfied,Yes,Yes,Yes,Maybe,Significantly Influenced,Maybe,Maybe,No,No,3,0,No working,Yes
+21-25,Male,Unmarried,Master's degree or higher,Higher Secondary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%,3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Neutral,No,Yes,No,Yes,Moderately Influenced,No,Yes,No,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Bachelor's degree,Primary school,"15,000 - 35,000 BDT",private,National,CSE,4th y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,No,Extremely Satisfied,No,Maybe,No,No,Moderately Influenced,Maybe,Yes,No,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Secondary school,Secondary school,"Below 15,000 BDT",private,International,CSE,4th y,More than 50%,2.50-3.00,5,Limited Knowledge(????? ?????),No,Yes,Neutral,Yes,Yes,Yes,Yes,Significantly Influenced,No,Yes,No,No,3,0,Full time,Yes
+18-20,Male,Unmarried,Bachelor's degree,Bachelor's degree,"35,000 - 50,000 BDT",private,National,CSE,1st y,More than 50%,3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,Yes,Neutral,Maybe,Maybe,Yes,Yes,Prefer not to say,Maybe,Yes,Maybe,No,2,0,No working,Yes
+21-25,Male,Unmarried,Bachelor's degree,Higher Secondary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%,More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,No,Neutral,Maybe,No,No,No,Slightly Influenced,Maybe,Yes,No,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Master's degree or higher,Bachelor's degree,"Above 50,000 BDT",private,International,CSE,2nd y,More than 50%,2.50-3.00,7,Limited Knowledge(????? ?????),Maybe,No,Neutral,Yes,Yes,Maybe,No,Prefer not to say,Yes,Yes,Maybe,Yes,3,0,No working,Yes
+21-25,Male,Unmarried,Secondary school,Secondary school,"15,000 - 35,000 BDT",private,National,CSE,1st y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),No,Yes,Neutral,No,No,No,Maybe,Prefer not to say,Maybe,Maybe,No,No,3,"
+",No working,No
+18-20,Male,Unmarried,Bachelor's degree,Bachelor's degree,"35,000 - 50,000 BDT",private,National,CSE,1st y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),No,Yes,Satisfied,Maybe,Maybe,No,Maybe,Significantly Influenced,Yes,Yes,No,Maybe,1,"
+",No working,No
+21-25,Female,Unmarried,Master's degree or higher,Master's degree or higher,"15,000 - 35,000 BDT",private,National,CSE,3rd y,Less than 50%,Less than 2.50,3,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Dissatisfied,Maybe,Maybe,No,Yes,Prefer not to say,Maybe,No,No,No relationship,3,0,No working,Yes
+18-20,Female,Unmarried,Master's degree or higher,Bachelor's degree,"15,000 - 35,000 BDT",private,International,CSE,2nd y,More than 50%,2.50-3.00,0,Limited Knowledge(????? ?????),No,Yes,Neutral,No,Yes,Yes,Yes,Significantly Influenced,Yes,Yes,Yes,No relationship,3,1,part time,Yes
+21-25,Male,Unmarried,Bachelor's degree,Higher Secondary school,"Below 15,000 BDT",private,National,CSE,1st y,More than 50%,More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),"
+",Yes,Neutral,No,No,No,Maybe,Prefer not to say,Maybe,Yes,No,No relationship,3,"
+",No working,No
+21-25,Male,Unmarried,Bachelor's degree,Bachelor's degree,"35,000 - 50,000 BDT",private,International,CSE,3rd y,More than 50%,2.50-3.00,4,Limited Knowledge(????? ?????),No,Yes,Neutral,Yes,Yes,No,Yes,Moderately Influenced,No,No,Maybe,No relationship,3,0,No working,Yes
+18-20,Female,Unmarried,Bachelor's degree,Bachelor's degree,"Below 15,000 BDT",private,National,CSE,1st y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Neutral,No,Yes,No,Yes,Moderately Influenced,Maybe,Yes,Maybe,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Secondary school,Secondary school,"15,000 - 35,000 BDT",private,National,CSE,1st y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,Maybe,Maybe,No,Maybe,Significantly Influenced,Yes,Yes,No,Maybe,3,0,No working,No
+18-20,Male,Unmarried,Bachelor's degree,Bachelor's degree,"35,000 - 50,000 BDT",private,National,CSE,1st y,More than 50%,3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Satisfied,Maybe,Maybe,No,Maybe,Significantly Influenced,Maybe,Yes,No,No,1,0,No working,No
+21-25,Male,Unmarried,Prefer not to say,Prefer not to say,"Above 50,000 BDT",private,National,CSE,1st y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Neutral,No,No,No,No,Not Influenced,Maybe,No,No,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Higher Secondary school,Primary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%,Less than 2.50,3,Limited Knowledge(????? ?????),Yes,No,Neutral,Yes,No,Maybe,No,Moderately Influenced,Maybe,"
+",No,No relationship,3,0,part time,No
+18-20,Male,Unmarried,Primary school,Primary school,"15,000 - 35,000 BDT",private,National,CSE,1st y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),No,Yes,Neutral,No,No,No,No,Moderately Influenced,Yes,Maybe,No,No,2,0,No working,No
+21-25,Male,Unmarried,Higher Secondary school,Higher Secondary school,"35,000 - 50,000 BDT",private,National,CSE,4th y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,No,Neutral,No,No,No,No,Slightly Influenced,Yes,Yes,No,No,3,0,No working,No
+21-25,Male,Unmarried,Bachelor's degree,Higher Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,Maybe,No,No,Yes,Moderately Influenced,Maybe,Yes,No,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Secondary school,Higher Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%,2.50-3.00,0,Limited Knowledge(????? ?????),No,No,Satisfied,No,No,No,Yes,Significantly Influenced,Yes,Yes,Yes,No,3,0,No working,No
+18-20,Female,Unmarried,Bachelor's degree,Master's degree or higher,"Above 50,000 BDT",private,International,CSE,2nd y,More than 50%,2.50-3.00,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Satisfied,Yes,No,No,No,Prefer not to say,Yes,Yes,No,No relationship,3,3,No working,No
+21-25,Male,Unmarried,Secondary school,Higher Secondary school,"Above 50,000 BDT",private,National,CSE,3rd y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Maybe,Yes,Dissatisfied,Yes,Maybe,No,No,Moderately Influenced,Maybe,Yes,No,No,3,0,No working,No
+21-25,Male,Unmarried,Bachelor's degree,Higher Secondary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Extremely Satisfied,No,No,No,No,Moderately Influenced,Yes,Yes,No,No,3,0,No working,No
+21-25,Male,Unmarried,Higher Secondary school,Higher Secondary school,"Above 50,000 BDT",private,National,CSE,2nd y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,No,Neutral,Yes,No,Yes,Yes,Not Influenced,Maybe,No,No,No,3,0,No working,Yes
+21-25,Female,Married,Bachelor's degree,Secondary school,"15,000 - 35,000 BDT",National,National,Others,2nd y,Less than 50%,More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Dissatisfied,No,No,Yes,Yes,Not Influenced,No,No,No,Yes,1,3,No working,Yes
+21-25,Male,Unmarried,No formal education,Primary school,"Below 15,000 BDT",private,National,CSE,3rd y,More than 50%,More than 3.50,0,Extensive Knowledge(?????? ????? ???),No,Yes,Dissatisfied,Yes,Yes,No,Yes,Significantly Influenced,No,Yes,Yes,No,3,1,part time,Yes
+21-25,Female,Unmarried,Higher Secondary school,Secondary school,"Above 50,000 BDT",private,National,CSE,3rd y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Neutral,Yes,Maybe,No,Maybe,Moderately Influenced,Yes,Yes,No,No relationship,3,0,No working,No
+21-25,Female,Unmarried,Higher Secondary school,Secondary school,"15,000 - 35,000 BDT",private,International,CSE,2nd y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),Maybe,No,Satisfied,No,No,No,No,Significantly Influenced,Maybe,Yes,No,No relationship,3,1,No working,No
+18-20,Female,Unmarried,Master's degree or higher,Master's degree or higher,"Above 50,000 BDT",private,National,SWE,1st y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,No,Maybe,No,Maybe,Slightly Influenced,Maybe,Yes,No,No relationship,3,0,No working,No
+"
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+",
+21-25,Male,Married,Secondary school,Secondary school,"15,000 - 35,000 BDT",private,National,EEE,2nd y,More than 50%(Irregular),More than 3.50,0,Extensive Knowledge(?????? ????? ???),Yes,Yes,Satisfied,No,No,No,No,Slightly Influenced,Yes,Yes,No,No,3,"
+",No working,No
+21-25,Female,Married,Secondary school,Higher Secondary school,"35,000 - 50,000 BDT",private,International,CSE,2nd y,More than 50%(Irregular),More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,Yes,Yes,Yes,Yes,Prefer not to say,Maybe,Yes,No,No,3,1,No working,Yes
+21-25,Female,Unmarried,Higher Secondary school,Secondary school,"15,000 - 35,000 BDT",private,"
+",CSE,1st y,More than 50%(Irregular),More than 3.50,0,Limited Knowledge(????? ?????),Yes,No,Satisfied,No,No,No,Maybe,Prefer not to say,Maybe,"
+",No,No relationship,3,0,No working,No
+21-25,Female,Unmarried,Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%(Irregular),3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,No,Neutral,Maybe,No,No,No,Slightly Influenced,No,Yes,No,No relationship,3,0,No working,No
+21-25,Female,Unmarried,Secondary school,Secondary school,"15,000 - 35,000 BDT",private,National,Nursing,3rd y,Less than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Satisfied,Yes,Yes,Yes,No,Significantly Influenced,Maybe,No,No,No,3,5,No working,Yes
+21-25,Male,Unmarried,Bachelor's degree,Higher Secondary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,Less than 50%(Irregular),2.50-3.00,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Neutral,No,No,No,No,Prefer not to say,Yes,Maybe,No,No,3,0,No working,No
+21-25,Female,Unmarried,Higher Secondary school,Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Neutral,Yes,No,No,No,Prefer not to say,Maybe,Yes,No,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Higher Secondary school,Secondary school,"15,000 - 35,000 BDT",private,International,CSE,2nd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),No,No,Neutral,No,No,No,Yes,Moderately Influenced,Yes,Maybe,No,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Prefer not to say,Prefer not to say,"Above 50,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Neutral,Yes,Yes,No,Yes,Slightly Influenced,No,No,No,No relationship,3,0,part time,Yes
+21-25,Female,Unmarried,Higher Secondary school,Higher Secondary school,"Above 50,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,Yes,Neutral,No,No,No,Maybe,Slightly Influenced,Yes,Yes,Maybe,No relationship,3,0,No working,No
+21-25,Female,Unmarried,Secondary school,Master's degree or higher,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),2.50-3.00,1,Limited Knowledge(????? ?????),No,Yes,Neutral,Yes,Yes,Yes,Maybe,Not Influenced,Yes,Maybe,No,No relationship,3,0,No working,Yes
+21-25,Male,Unmarried,Primary school,Primary school,"Below 15,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Neutral,No,No,No,No,Slightly Influenced,Maybe,Yes,No,No relationship,3,0,part time,No
+18-20,Male,Unmarried,Master's degree or higher,Higher Secondary school,"15,000 - 35,000 BDT",private,International,CSE,1st y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,No,Neutral,No,No,No,Maybe,Slightly Influenced,Maybe,Yes,No,No,3,0,No working,No
+21-25,Female,Unmarried,Master's degree or higher,Bachelor's degree,"35,000 - 50,000 BDT",private,National,Nursing,3rd y,More than 50%(Regular),3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Satisfied,Yes,No,No,No,Significantly Influenced,No,Yes,No,No,1,"
+",No working,No
+21-25,Female,Unmarried,No formal education,No formal education,"Below 15,000 BDT",National,National,Others,1st y,More than 50%(Regular),NULL(1st semester),0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Satisfied,No,Yes,No,Yes,Prefer not to say,Maybe,Yes,No,No relationship,3,"
+",part time,No
+21-25,Male,Unmarried,Bachelor's degree,Prefer not to say,"35,000 - 50,000 BDT",private,National,SWE,1st y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Neutral,No,No,No,Maybe,Not Influenced,Yes,Yes,No,No relationship,2,0,No working,No
+18-20,Male,Unmarried,Higher Secondary school,Secondary school,"Above 50,000 BDT",private,National,SWE,1st y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),No,No,Satisfied,No,No,No,No,Slightly Influenced,No,Yes,No,Maybe,3,0,No working,No
+21-25,Male,Unmarried,Secondary school,Secondary school,"Below 15,000 BDT",Public,National,Textile,4th y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,No,Satisfied,Yes,No,No,No,Not Influenced,Yes,Yes,No,No,3,0,No working,No
+"
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+",
+21-25,Male,Unmarried,Secondary school,Higher Secondary school,"35,000 - 50,000 BDT",private,National,SWE,1st y,More than 50%(Regular),3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,Yes,Dissatisfied,Yes,Maybe,No,Maybe,Slightly Influenced,No,No,No,"
+","
+","
+",No working,Yes
+"
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+",
+21-25,Female,Unmarried,Master's degree or higher,Bachelor's degree,"35,000 - 50,000 BDT",private,International,CSE,2nd y,More than 50%(Regular),2.50-3.00,0,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,Maybe,Maybe,No,Maybe,Slightly Influenced,Maybe,Yes,Maybe,No relationship,3,0,No working,No
+18-20,Male,Unmarried,Primary school,Primary school,"15,000 - 35,000 BDT",private,National,CSE,1st y,More than 50%(Regular),NULL(1st semester),0,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,No,No,No,No,Not Influenced,Yes,Yes,No,No relationship,3,0,No working,No
+21-25,Female,Unmarried,Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),2.50-3.00,1,No Prior Knowledge???? ?????????? ????? ??? ??),Maybe,No,Neutral,Yes,Yes,No,No,Moderately Influenced,Maybe,Maybe,No,Maybe,3,0,part time,No
+21-25,Female,Unmarried,Bachelor's degree,Bachelor's degree,"15,000 - 35,000 BDT",Public,National,Others,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,No,Satisfied,No,No,No,No,Slightly Influenced,Maybe,Yes,No,No relationship,3,1,No working,No
+21-25,Male,Unmarried,Secondary school,Secondary school,"15,000 - 35,000 BDT",private,National,CSE,1st y,More than 50%(Regular),NULL(1st semester),0,Limited Knowledge(????? ?????),No,Yes,Neutral,No,No,No,Yes,Prefer not to say,Maybe,Maybe,No,No relationship,3,"
+",No working,No
+21-25,Male,Unmarried,Prefer not to say,Bachelor's degree,"Above 50,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,Yes,Neutral,Yes,No,No,No,Slightly Influenced,Maybe,No,No,No,3,0,No working,No
+21-25,Male,Unmarried,Bachelor's degree,Higher Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),2.50-3.00,0,Limited Knowledge(????? ?????),No,No,Dissatisfied,Yes,Yes,No,No,Moderately Influenced,No,No,Yes,No relationship,3,0,No working,Yes
+21-25,Male,Unmarried,Bachelor's degree,Bachelor's degree,"35,000 - 50,000 BDT",private,National,CSE,3rd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Neutral,Maybe,No,No,Yes,Slightly Influenced,Yes,Maybe,No,No relationship,3,0,No working,No
+21-25,Female,Unmarried,Bachelor's degree,Higher Secondary school,"15,000 - 35,000 BDT",Public,National,Others,3rd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Neutral,Maybe,No,No,No,Not Influenced,No,Yes,No,No,3,0,No working,No
+21-25,Male,Unmarried,Master's degree or higher,Secondary school,"15,000 - 35,000 BDT",private,National,EEE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Dissatisfied,Maybe,Maybe,No,Yes,Moderately Influenced,Maybe,Yes,No,No,3,0,No working,No
+21-25,Male,Unmarried,Bachelor's degree,Higher Secondary school,"Above 50,000 BDT",private,International,CSE,3rd y,More than 50%(Regular),3.00 - 3.50,4,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Neutral,No,Yes,Yes,Yes,Moderately Influenced,Yes,Yes,No,Yes,3,"
+",No working,Yes
+21-25,Male,Unmarried,Bachelor's degree,Higher Secondary school,"Above 50,000 BDT",private,National,CSE,3rd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,Maybe,No,No,No,Not Influenced,Yes,Yes,No,No relationship,3,"
+",No working,No
+21-25,Male,Unmarried,No formal education,Primary school,"35,000 - 50,000 BDT",private,National,SWE,1st y,More than 50%(Regular),3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,Yes,Neutral,Maybe,No,No,No,Slightly Influenced,Maybe,No,No,No relationship,3,0,No working,No
+"
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+",
+21-25,Male,Unmarried,Bachelor's degree,Higher Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,No,Dissatisfied,Yes,Yes,Maybe,No,Significantly Influenced,Maybe,Maybe,No,Maybe,3,0,No working,Yes
+21-25,Female,Unmarried,Master's degree or higher,Bachelor's degree,"Above 50,000 BDT",private,International,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,No,Satisfied,Yes,No,No,No,Moderately Influenced,Yes,Yes,No,No relationship,3,0,No working,No
+Above 35,Male,Married,Primary school,No formal education,"15,000 - 35,000 BDT",National,National,Humanities,3rd y,Less than 50%(Irregular),Less than 2.50,0,Limited Knowledge(????? ?????),No,No,Neutral,No,No,No,No,Moderately Influenced,No,Yes,No,No,2,2,Full time,No
+21-25,Female,Unmarried,Master's degree or higher,Secondary school,"35,000 - 50,000 BDT",Public,National,Others,3rd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),No,Yes,Neutral,Maybe,Maybe,Yes,No,Prefer not to say,Maybe,Yes,No,No relationship,3,0,No working,No
+21-25,Female,Unmarried,Master's degree or higher,Master's degree or higher,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,No,Maybe,No,No,Slightly Influenced,Maybe,Maybe,No,No relationship,3,0,No working,No
+18-20,Male,Unmarried,Bachelor's degree,Bachelor's degree,"Below 15,000 BDT",private,National,CSE,1st y,More than 50%(Regular),NULL(1st semester),0,Limited Knowledge(????? ?????),No,Yes,Satisfied,No,Maybe,No,Maybe,Moderately Influenced,Maybe,Yes,No,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Primary school,Primary school,"15,000 - 35,000 BDT",private,"
+",Textile,2nd y,Less than 50%(Irregular),2.50-3.00,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Neutral,No,Yes,No,Yes,Prefer not to say,Yes,Yes,No,No relationship,3,2,part time,Yes
+21-25,Female,Unmarried,Master's degree or higher,Higher Secondary school,"Above 50,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Neutral,Maybe,No,No,Maybe,Not Influenced,No,No,No,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Bachelor's degree,Higher Secondary school,"Below 15,000 BDT",private,International,CSE,4th y,Less than 50%(Irregular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Neutral,Maybe,No,Maybe,Yes,Not Influenced,Maybe,No,No,Maybe,2,0,part time,Yes
+18-20,Male,Unmarried,Bachelor's degree,Bachelor's degree,"35,000 - 50,000 BDT",private,National,CSE,1st y,More than 50%(Regular),NULL(1st semester),0,Limited Knowledge(????? ?????),Yes,No,Satisfied,No,No,No,Yes,Moderately Influenced,Yes,Yes,No,No relationship,2,"
+",No working,No
+21-25,Male,Unmarried,Bachelor's degree,Higher Secondary school,"35,000 - 50,000 BDT",private,National,CSE,3rd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),Yes,No,Neutral,Maybe,Yes,Maybe,Yes,Significantly Influenced,No,No,No,No relationship,3,0,No working,Yes
+21-25,Male,Unmarried,Higher Secondary school,Secondary school,"Above 50,000 BDT",private,National,CSE,3rd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),Yes,No,Neutral,No,Maybe,Yes,Maybe,Moderately Influenced,Maybe,Maybe,No,No,3,0,part time,No
+21-25,Female,Unmarried,Higher Secondary school,Higher Secondary school,"35,000 - 50,000 BDT",private,National,Others,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Satisfied,No,No,No,No,Moderately Influenced,Yes,Yes,No,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Bachelor's degree,Bachelor's degree,"35,000 - 50,000 BDT",private,National,CSE,3rd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Dissatisfied,Yes,Yes,No,Yes,Significantly Influenced,No,Yes,No,Yes,3,0,No working,Yes
+21-25,Female,Unmarried,Higher Secondary school,Higher Secondary school,"Below 15,000 BDT",Public,National,Others,2nd y,More than 50%(Regular),More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Satisfied,Maybe,Maybe,Maybe,Yes,Prefer not to say,Maybe,Maybe,No,No relationship,3,0,No working,No
+21-25,Female,Unmarried,Bachelor's degree,Secondary school,"35,000 - 50,000 BDT",National,National,Others,2nd y,More than 50%(Regular),More than 3.50,1,Limited Knowledge(????? ?????),Maybe,No,Dissatisfied,No,No,Yes,Yes,Moderately Influenced,Yes,No,Yes,Yes,2,1,No working,Yes
+21-25,Female,Unmarried,Higher Secondary school,Higher Secondary school,"15,000 - 35,000 BDT",private,National,CSE,1st y,More than 50%(Regular),NULL(1st semester),0,Limited Knowledge(????? ?????),Yes,No,Satisfied,No,No,No,Maybe,Significantly Influenced,Yes,Yes,No,No,3,0,No working,No
+21-25,Male,Unmarried,Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,3rd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,Yes,Yes,Maybe,Maybe,Slightly Influenced,Maybe,Yes,No,No,3,0,No working,No
+21-25,Female,Unmarried,Bachelor's degree,Secondary school,"15,000 - 35,000 BDT",private,National,Architecture,1st y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,No,Neutral,No,No,No,Yes,Prefer not to say,Yes,Yes,Yes,Yes,3,"
+",No working,No
+21-25,Male,Married,Higher Secondary school,Secondary school,"15,000 - 35,000 BDT",private,National,Others,2nd y,More than 50%(Regular),More than 3.50,0,Extensive Knowledge(?????? ????? ???),Yes,Yes,Satisfied,Maybe,No,No,Maybe,Slightly Influenced,Maybe,Yes,No,No,3,0,part time,No
+"
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+",
+"
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+",
+"
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+",
+21-25,Male,Unmarried,Bachelor's degree,Higher Secondary school,"35,000 - 50,000 BDT",National,National,CSE,3rd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Satisfied,No,Maybe,Maybe,Maybe,Slightly Influenced,Maybe,Maybe,Maybe,Maybe,3,0,part time,No
+21-25,Female,Unmarried,Bachelor's degree,Bachelor's degree,"Above 50,000 BDT",private,National,Others,1st y,More than 50%(Regular),More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,No,Extremely Satisfied,No,Maybe,No,No,Significantly Influenced,Yes,Yes,No,No,3,0,No working,No
+21-25,Female,Married,Higher Secondary school,Secondary school,"Above 50,000 BDT",private,National,Others,1st y,More than 50%(Regular),2.50-3.00,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Neutral,Yes,Yes,No,No,Prefer not to say,No,Yes,No,Yes,3,0,No working,Yes
+21-25,Male,Unmarried,Higher Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,1st y,More than 50%(Regular),More than 3.50,0,Extensive Knowledge(?????? ????? ???),Yes,Yes,Extremely Satisfied,No,No,Maybe,No,Not Influenced,Maybe,Maybe,No,No,3,0,No working,No
+21-25,Female,Unmarried,Higher Secondary school,Higher Secondary school,"15,000 - 35,000 BDT",private,National,MBBS,2nd y,More than 50%(Regular),More than 3.50,0,Extensive Knowledge(?????? ????? ???),No,No,Extremely Satisfied,No,No,No,No,Prefer not to say,Yes,Yes,No,No,"
+",0,No working,No
+21-25,Male,Unmarried,Master's degree or higher,Master's degree or higher,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),Maybe,Yes,Satisfied,Maybe,No,No,No,Significantly Influenced,Maybe,No,No,No relationship,3,"
+",No working,No
+21-25,Male,Married,Master's degree or higher,Master's degree or higher,"35,000 - 50,000 BDT",private,National,CSE,3rd y,More than 50%(Regular),3.00 - 3.50,3,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,No,Yes,No,Yes,Moderately Influenced,Yes,Yes,No,No,3,0,part time,No
+21-25,Female,Married,Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,No,Neutral,Yes,Yes,Yes,No,Not Influenced,Maybe,Maybe,No,Maybe,3,0,No working,Yes
+21-25,Male,Unmarried,No formal education,No formal education,"Below 15,000 BDT",private,National,Others,2nd y,More than 50%(Regular),Less than 2.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Extremely Satisfied,No,Yes,No,Yes,Slightly Influenced,No,Yes,No,No relationship,3,2,No working,No
+21-25,Male,Unmarried,No formal education,No formal education,"Below 15,000 BDT",private,National,Humanities,2nd y,More than 50%(Regular),Less than 2.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Extremely Satisfied,No,Yes,No,Yes,Slightly Influenced,No,Yes,No,No relationship,3,2,No working,No
+21-25,Male,Unmarried,Higher Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),2.50-3.00,1,Limited Knowledge(????? ?????),No,Yes,Neutral,Yes,Maybe,Maybe,Maybe,Slightly Influenced,Maybe,Maybe,Maybe,Maybe,3,"
+",No working,No
+21-25,Male,Unmarried,Prefer not to say,Prefer not to say,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Neutral,Yes,No,No,Maybe,Moderately Influenced,Maybe,Maybe,Maybe,No relationship,1,0,part time,No
+21-25,Male,Unmarried,Higher Secondary school,Higher Secondary school,"Above 50,000 BDT",private,International,CSE,4th y,Less than 50%(Irregular),Less than 2.50,18,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Satisfied,Yes,Yes,No,Yes,Significantly Influenced,No,Maybe,No,No,2,1,No working,Yes
+21-25,Male,Unmarried,Higher Secondary school,Higher Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Neutral,No,Yes,No,Yes,Slightly Influenced,Maybe,Yes,No,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Master's degree or higher,Bachelor's degree,"Above 50,000 BDT",private,National,EEE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Neutral,Yes,Yes,No,Yes,Moderately Influenced,No,Yes,No,Yes,3,2,part time,Yes
+21-25,Male,Unmarried,Master's degree or higher,Bachelor's degree,"35,000 - 50,000 BDT",private,National,CSE,3rd y,More than 50%(Regular),2.50-3.00,4,Limited Knowledge(????? ?????),No,Yes,Neutral,Yes,Maybe,No,Yes,Prefer not to say,Maybe,Yes,No,Maybe,3,0,part time,No
+21-25,Female,Unmarried,Master's degree or higher,Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Dissatisfied,Yes,Maybe,Maybe,Yes,Moderately Influenced,Maybe,Maybe,Maybe,Maybe,3,0,No working,Yes
+21-25,Male,Unmarried,No formal education,Secondary school,"Below 15,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Neutral,Yes,Yes,Yes,Maybe,Moderately Influenced,Maybe,Maybe,No,No relationship,3,1,No working,No
+21-25,Male,Unmarried,Master's degree or higher,Bachelor's degree,"15,000 - 35,000 BDT",private,International,EEE,2nd y,More than 50%(Regular),2.50-3.00,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,Yes,Neutral,Yes,Maybe,Maybe,Maybe,Slightly Influenced,Maybe,Maybe,No,Maybe,3,0,No working,No
+21-25,Male,Unmarried,Secondary school,Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Neutral,Yes,Maybe,No,Maybe,Moderately Influenced,Maybe,Maybe,No,No relationship,3,1,No working,No
+18-20,Male,Unmarried,Secondary school,Primary school,"15,000 - 35,000 BDT",Public,National,Humanities,1st y,More than 50%(Regular),2.50-3.00,0,Limited Knowledge(????? ?????),No,No,Satisfied,No,Maybe,No,No,Not Influenced,Maybe,Yes,No,No relationship,"
+",0,No working,No
+21-25,Male,Unmarried,Higher Secondary school,Higher Secondary school,"15,000 - 35,000 BDT",private,"
+",CIVIL,2nd y,More than 50%(Regular),2.50-3.00,3,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Satisfied,Maybe,No,Yes,Maybe,Moderately Influenced,Maybe,Maybe,No,No,3,0,No working,No
+21-25,Male,Unmarried,Master's degree or higher,Bachelor's degree,"15,000 - 35,000 BDT",private,National,CSE,1st y,More than 50%(Regular),NULL(1st semester),0,Limited Knowledge(????? ?????),Yes,Yes,Neutral,No,No,No,Yes,Prefer not to say,Yes,Yes,No,No,2,0,No working,No
+21-25,Female,Unmarried,Bachelor's degree,Higher Secondary school,"Above 50,000 BDT",private,National,CSE,1st y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Neutral,No,No,No,Maybe,Not Influenced,Maybe,Yes,No,No,3,0,No working,No
+21-25,Male,Unmarried,Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),2.50-3.00,3,Limited Knowledge(????? ?????),No,Yes,Neutral,Yes,No,No,No,Not Influenced,Maybe,Yes,No,No,3,"
+",No working,No
+21-25,Male,Unmarried,Higher Secondary school,Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,No,Neutral,No,Maybe,No,Maybe,Prefer not to say,No,Maybe,No,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Bachelor's degree,Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,Yes,Dissatisfied,No,No,Maybe,Maybe,Slightly Influenced,Maybe,Maybe,No,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Higher Secondary school,Higher Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,No,Neutral,No,No,No,No,Slightly Influenced,Yes,Maybe,No,No relationship,1,"
+",No working,No
+21-25,Female,Unmarried,Higher Secondary school,Secondary school,"Above 50,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,Yes,Satisfied,No,No,No,No,Moderately Influenced,Yes,No,No,No,3,1,No working,No
+21-25,Female,Married,Bachelor's degree,Bachelor's degree,"Above 50,000 BDT",private,National,CSE,1st y,More than 50%(Regular),3.00 - 3.50,2,Limited Knowledge(????? ?????),No,Yes,Neutral,No,Yes,Yes,Yes,Moderately Influenced,No,No,Yes,Yes,1,3,No working,Yes
+21-25,Female,Unmarried,Higher Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,No,No,No,Maybe,Significantly Influenced,Yes,Yes,No,No,3,1,No working,No
+21-25,Male,Married,Master's degree or higher,Higher Secondary school,"35,000 - 50,000 BDT",private,National,CSE,3rd y,More than 50%(Regular),More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Dissatisfied,Yes,Yes,No,Maybe,Moderately Influenced,No,Yes,Maybe,No,3,0,part time,No
+18-20,Male,Unmarried,Primary school,Primary school,"15,000 - 35,000 BDT",private,National,CSE,1st y,More than 50%(Regular),NULL(1st semester),0,Extensive Knowledge(?????? ????? ???),No,Yes,Extremely Satisfied,No,Maybe,No,Maybe,Moderately Influenced,Yes,Yes,No,No,3,"
+",No working,No
+21-25,Female,Unmarried,Higher Secondary school,Higher Secondary school,"35,000 - 50,000 BDT",private,National,NFE,1st y,More than 50%(Regular),2.50-3.00,2,Limited Knowledge(????? ?????),No,Yes,Satisfied,Maybe,Yes,Yes,Yes,Slightly Influenced,Maybe,Maybe,No,No relationship,3,0,No working,Yes
+"
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+",Yes
+21-25,Male,Unmarried,Bachelor's degree,Higher Secondary school,"Above 50,000 BDT",private,National,CSE,1st y,More than 50%(Regular),NULL(1st semester),0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,Yes,Satisfied,No,No,No,No,Moderately Influenced,No,Yes,No,No relationship,"
+",0,No working,No
+21-25,Male,Unmarried,Master's degree or higher,Bachelor's degree,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),Maybe,Yes,Satisfied,Maybe,Yes,Maybe,Yes,Moderately Influenced,Maybe,No,No,No relationship,3,0,No working,Yes
+21-25,Male,Unmarried,Bachelor's degree,Higher Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,No,Neutral,No,No,Maybe,No,Not Influenced,Maybe,Yes,No,No,3,0,No working,No
+21-25,Male,Unmarried,Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,1st y,More than 50%(Regular),NULL(1st semester),0,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,No,No,No,No,Slightly Influenced,Maybe,Maybe,No,No,2,"
+",No working,No
+21-25,Male,Unmarried,Primary school,Primary school,"Below 15,000 BDT",private,National,CSE,1st y,More than 50%(Regular),Less than 2.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,Yes,Satisfied,Yes,Yes,Yes,Maybe,Moderately Influenced,Yes,Yes,No,No relationship,3,"
+",No working,Yes
+21-25,Female,Unmarried,Master's degree or higher,Bachelor's degree,"35,000 - 50,000 BDT",private,National,Architecture,2nd y,More than 50%(Regular),More than 3.50,0,Extensive Knowledge(?????? ????? ???),Yes,No,Satisfied,No,No,Yes,No,Slightly Influenced,Yes,Yes,No,No relationship,3,0,No working,No
+21-25,Male,Married,Secondary school,Secondary school,"15,000 - 35,000 BDT",private,National,EEE,3rd y,More than 50%(Regular),More than 3.50,1,Limited Knowledge(????? ?????),Yes,Yes,Neutral,Yes,Yes,No,No,Moderately Influenced,No,Yes,No,No,2,0,part time,No
+26-30,Male,Married,Bachelor's degree,Higher Secondary school,"35,000 - 50,000 BDT",National,National,Others,3rd y,Less than 50%(Irregular),3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Neutral,Yes,Yes,No,Yes,Moderately Influenced,Maybe,Maybe,No,Yes,2,0,part time,Yes
+26-30,Female,Married,Higher Secondary school,Prefer not to say,"35,000 - 50,000 BDT",private,International,Pharmacy,2nd y,More than 50%(Regular),3.00 - 3.50,4,Extensive Knowledge(?????? ????? ???),Yes,Yes,Satisfied,Yes,Yes,No,No,Moderately Influenced,Yes,Yes,No,No,1,3,part time,Yes
+21-25,Male,Unmarried,Bachelor's degree,Higher Secondary school,"Above 50,000 BDT",private,National,CSE,3rd y,Less than 50%(Irregular),2.50-3.00,5,Limited Knowledge(????? ?????),No,No,Neutral,Yes,No,Yes,No,Slightly Influenced,No,Maybe,Yes,Yes,2,0,part time,Yes
+18-20,Male,Unmarried,Prefer not to say,Prefer not to say,"Above 50,000 BDT",private,National,CSE,1st y,More than 50%(Regular),NULL(1st semester),0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,Yes,Satisfied,Yes,Yes,No,No,Slightly Influenced,Maybe,No,No,No relationship,3,0,No working,Yes
+21-25,Female,Married,Secondary school,Higher Secondary school,"35,000 - 50,000 BDT",National,National,Others,2nd y,Less than 50%(Irregular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,Yes,Dissatisfied,Yes,Yes,Yes,Yes,Slightly Influenced,No,Yes,No,No,2,0,part time,Yes
+21-25,Female,Unmarried,Higher Secondary school,Higher Secondary school,"35,000 - 50,000 BDT",private,National,Textile,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,Yes,Yes,Yes,No,Slightly Influenced,No,No,No,Maybe,2,2,No working,Yes
+21-25,Male,Married,Bachelor's degree,Higher Secondary school,"35,000 - 50,000 BDT",National,National,Others,3rd y,More than 50%(Regular),3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Extremely Dissatisfied,Yes,Yes,Yes,Yes,Moderately Influenced,No,No,No,No,2,2,part time,Yes
+26-30,Male,Married,Secondary school,Higher Secondary school,"35,000 - 50,000 BDT",Public,National,SWE,1st y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Extremely Satisfied,Yes,No,No,Yes,Slightly Influenced,Maybe,No,Maybe,Maybe,3,0,part time,Yes
+21-25,Male,Unmarried,Master's degree or higher,Bachelor's degree,"Above 50,000 BDT",private,International,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Extremely Dissatisfied,No,No,No,No,Significantly Influenced,Maybe,No,No,No,2,0,No working,No
+26-30,Male,Married,Higher Secondary school,Secondary school,"15,000 - 35,000 BDT",National,National,Humanities,4th y,Less than 50%(Irregular),2.50-3.00,2,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Extremely Satisfied,Yes,Yes,Yes,Yes,Significantly Influenced,No,Yes,Yes,Yes,2,0,part time,Yes
+21-25,Male,Unmarried,Secondary school,Higher Secondary school,"35,000 - 50,000 BDT",private,National,Nursing,2nd y,More than 50%(Regular),More than 3.50,0,Extensive Knowledge(?????? ????? ???),No,Yes,Satisfied,Yes,Yes,Yes,No,Moderately Influenced,No,No,No,No,3,0,No working,Yes
+21-25,Male,Unmarried,Master's degree or higher,Master's degree or higher,"Above 50,000 BDT",Medical Collage,National,MBBS,2nd y,More than 50%(Regular),More than 3.50,0,Extensive Knowledge(?????? ????? ???),No,Yes,Extremely Satisfied,Yes,Yes,Yes,Yes,Significantly Influenced,No,Yes,No,No relationship,3,0,No working,Yes
+21-25,Male,Unmarried,Master's degree or higher,Bachelor's degree,"Above 50,000 BDT",private,International,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Extremely Dissatisfied,No,No,No,No,Not Influenced,Yes,No,No,No,2,0,No working,No
+21-25,Male,Unmarried,Master's degree or higher,Bachelor's degree,"Above 50,000 BDT",private,International,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Extremely Dissatisfied,No,No,No,No,Not Influenced,Maybe,No,No,No,2,0,No working,No
+21-25,Female,Unmarried,Higher Secondary school,Secondary school,"15,000 - 35,000 BDT",Public,National,Agriculture,2nd y,More than 50%(Regular),3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,Yes,Satisfied,Yes,Yes,Yes,Yes,Moderately Influenced,No,No,Yes,No,2,0,No working,Yes
+18-20,Male,Unmarried,Higher Secondary school,Higher Secondary school,"35,000 - 50,000 BDT",Public,National,Textile,1st y,More than 50%(Regular),NULL(1st semester),0,Extensive Knowledge(?????? ????? ???),Yes,No,Extremely Satisfied,No,No,Yes,No,Slightly Influenced,No,Yes,No,No,3,0,part time,No
+21-25,Male,Unmarried,Master's degree or higher,Bachelor's degree,"Above 50,000 BDT",private,International,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Dissatisfied,No,No,No,No,Significantly Influenced,No,No,No,No,2,0,No working,No
+21-25,Male,Unmarried,Master's degree or higher,Bachelor's degree,"Above 50,000 BDT",private,International,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Dissatisfied,No,No,No,No,Significantly Influenced,Maybe,No,No,No,2,0,No working,No
+21-25,Male,Unmarried,Higher Secondary school,Higher Secondary school,"15,000 - 35,000 BDT",private,National,CIVIL,1st y,More than 50%(Regular),NULL(1st semester),0,Extensive Knowledge(?????? ????? ???),Yes,Yes,Extremely Satisfied,Yes,Yes,No,Yes,Slightly Influenced,No,No,Yes,Yes,3,0,No working,Yes
+18-20,Female,Unmarried,Bachelor's degree,Secondary school,"15,000 - 35,000 BDT",Public,National,Nursing,1st y,More than 50%(Regular),NULL(1st semester),0,Extensive Knowledge(?????? ????? ???),Yes,Yes,Extremely Satisfied,Yes,Yes,No,Yes,Slightly Influenced,Yes,Yes,Yes,Yes,3,0,No working,Yes
+26-30,Male,Married,Higher Secondary school,Secondary school,"35,000 - 50,000 BDT",National,National,Others,4th y,More than 50%(Regular),More than 3.50,3,Limited Knowledge(????? ?????),No,Yes,Dissatisfied,Yes,Yes,Yes,Yes,Not Influenced,No,No,Yes,Yes,1,4,Full time,Yes
+21-25,Male,Married,Higher Secondary school,Secondary school,"15,000 - 35,000 BDT",Public,National,Pharmacy,2nd y,More than 50%(Regular),2.50-3.00,3,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,No,Neutral,Yes,Yes,No,Yes,Moderately Influenced,Yes,Yes,Yes,Yes,2,2,No working,Yes
+21-25,Male,Married,Secondary school,Secondary school,"Below 15,000 BDT",National,National,Others,2nd y,Less than 50%(Irregular),2.50-3.00,0,No Prior Knowledge???? ?????????? ????? ??? ??),Maybe,No,Dissatisfied,No,No,No,No,Slightly Influenced,No,Yes,No,Yes,2,2,part time,Yes
+26-30,Male,Married,Master's degree or higher,Higher Secondary school,"35,000 - 50,000 BDT",National,National,Others,4th y,Less than 50%(Irregular),3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Dissatisfied,No,Yes,No,Yes,Slightly Influenced,No,No,Yes,Maybe,2,0,part time,Yes
+30-35,Male,Married,No formal education,No formal education,"Below 15,000 BDT",National,National,Others,4th y,Less than 50%(Irregular),Less than 2.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Extremely Dissatisfied,Yes,Yes,Yes,Yes,Significantly Influenced,No,No,Yes,Yes,1,0,Full time,Yes
+21-25,Male,Unmarried,Secondary school,Bachelor's degree,"15,000 - 35,000 BDT",private,International,EEE,3rd y,Less than 50%(Irregular),More than 3.50,1,Limited Knowledge(????? ?????),No,No,Dissatisfied,No,No,Yes,No,Not Influenced,Yes,No,Yes,Maybe,3,0,part time,Yes
+21-25,Male,Married,Secondary school,Secondary school,"15,000 - 35,000 BDT",National,National,Others,2nd y,Less than 50%(Irregular),2.50-3.00,0,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,No,Yes,Yes,No,Moderately Influenced,Maybe,Maybe,Maybe,No,1,0,part time,Yes
+21-25,Male,Unmarried,Higher Secondary school,Secondary school,"Below 15,000 BDT",Public,National,Others,2nd y,Less than 50%(Irregular),3.00 - 3.50,2,Limited Knowledge(????? ?????),Yes,Yes,Neutral,Yes,Yes,Maybe,No,Moderately Influenced,Yes,No,No,No,1,0,part time,Yes
+"
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+",
+21-25,Male,Unmarried,Higher Secondary school,Primary school,"Below 15,000 BDT",National,National,Humanities,1st y,More than 50%(Regular),3.00 - 3.50,2,Limited Knowledge(????? ?????),Yes,Yes,Dissatisfied,No,No,No,Yes,Moderately Influenced,Yes,No,No,Maybe,1,0,No working,Yes
+18-20,Male,Unmarried,Secondary school,No formal education,"15,000 - 35,000 BDT",Public,National,Others,1st y,Less than 50%(Irregular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,Yes,Yes,Yes,Yes,Not Influenced,Yes,Yes,Yes,Yes,2,0,No working,Yes
+21-25,Female,Married,Secondary school,Bachelor's degree,"35,000 - 50,000 BDT",private,National,CSE,2nd y,Less than 50%(Irregular),2.50-3.00,2,Extensive Knowledge(?????? ????? ???),No,Yes,Extremely Satisfied,Yes,Yes,Yes,Yes,Significantly Influenced,Yes,Yes,No,Yes,1,1,No working,Yes
+21-25,Male,Unmarried,No formal education,No formal education,"Below 15,000 BDT",Public,National,Others,2nd y,More than 50%(Regular),3.00 - 3.50,2,Limited Knowledge(????? ?????),No,No,Neutral,Yes,No,Maybe,Maybe,Not Influenced,Maybe,Maybe,Maybe,No relationship,3,0,No working,No
+18-20,Male,Unmarried,Secondary school,Primary school,"35,000 - 50,000 BDT",Public,National,Others,1st y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,No,Satisfied,Yes,Yes,Yes,Yes,Slightly Influenced,Yes,Yes,Yes,Yes,2,0,No working,Yes
+18-20,Male,Unmarried,Bachelor's degree,Higher Secondary school,"15,000 - 35,000 BDT",National,National,Others,1st y,Less than 50%(Irregular),More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Dissatisfied,Yes,Yes,Yes,Yes,Moderately Influenced,Yes,Maybe,Maybe,No,3,0,No working,Yes
+26-30,Male,Married,Higher Secondary school,Higher Secondary school,"35,000 - 50,000 BDT",National,National,Others,3rd y,More than 50%(Regular),3.00 - 3.50,3,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Neutral,Yes,Yes,Yes,No,Slightly Influenced,Maybe,No,No,Yes,2,2,No working,Yes
+18-20,Male,Unmarried,Secondary school,Higher Secondary school,"15,000 - 35,000 BDT",private,National,Humanities,2nd y,Less than 50%(Irregular),2.50-3.00,0,Limited Knowledge(????? ?????),No,Yes,Extremely Satisfied,Yes,No,No,Yes,Moderately Influenced,No,No,No,No,2,0,part time,Yes
+21-25,Male,Married,Primary school,Secondary school,"15,000 - 35,000 BDT",Public,National,Others,2nd y,More than 50%(Regular),3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,Yes,Satisfied,No,Yes,No,Yes,Not Influenced,No,No,No,Yes,1,0,part time,Yes
+21-25,Male,Unmarried,Higher Secondary school,Primary school,"Below 15,000 BDT",Public,National,Nursing,1st y,Less than 50%(Irregular),More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,Yes,Satisfied,No,No,No,No,Slightly Influenced,No,No,No,No,2,0,part time,No
+21-25,Male,Unmarried,Master's degree or higher,Bachelor's degree,"Above 50,000 BDT",private,International,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Dissatisfied,No,No,No,No,Not Influenced,Maybe,No,No,No,2,0,No working,No
+21-25,Male,Unmarried,Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,Humanities,2nd y,Less than 50%(Irregular),2.50-3.00,0,Limited Knowledge(????? ?????),No,Yes,Dissatisfied,Yes,No,No,No,Moderately Influenced,No,No,No,Yes,1,0,No working,Yes
+21-25,Male,Married,Secondary school,Secondary school,"15,000 - 35,000 BDT",private,National,MBBS,2nd y,Less than 50%(Irregular),2.50-3.00,0,No Prior Knowledge???? ?????????? ????? ??? ??),Maybe,No,Neutral,Yes,Yes,No,No,Slightly Influenced,No,No,No,No,2,2,part time,Yes
+18-20,Male,Unmarried,Bachelor's degree,Secondary school,"15,000 - 35,000 BDT",private,National,Others,1st y,More than 50%(Regular),NULL(1st semester),0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Satisfied,Yes,No,No,Yes,Moderately Influenced,Yes,Maybe,No,Maybe,2,0,No working,Yes
+21-25,Male,Married,Bachelor's degree,Higher Secondary school,"15,000 - 35,000 BDT",National,National,Textile,3rd y,Less than 50%(Irregular),3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Neutral,Yes,Yes,No,No,Moderately Influenced,No,No,No,Maybe,2,0,part time,Yes
+21-25,Female,Unmarried,No formal education,Secondary school,"Below 15,000 BDT",Public,National,Others,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,No,No,No,Yes,Moderately Influenced,Maybe,Yes,Yes,No relationship,3,0,No working,No
+18-20,Male,Unmarried,Secondary school,Higher Secondary school,"Below 15,000 BDT",Public,National,Others,1st y,More than 50%(Regular),More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,Yes,Satisfied,Yes,No,Yes,Yes,Not Influenced,Yes,Yes,Yes,No,3,0,No working,Yes
+18-20,Female,Unmarried,Higher Secondary school,Secondary school,"15,000 - 35,000 BDT",private,National,NFE,1st y,More than 50%(Regular),NULL(1st semester),0,No Prior Knowledge???? ?????????? ????? ??? ??),Maybe,No,Satisfied,Yes,No,No,Yes,Slightly Influenced,No,No,Yes,No,2,0,No working,Yes
+21-25,Male,Married,Secondary school,Higher Secondary school,"15,000 - 35,000 BDT",private,National,Pharmacy,3rd y,More than 50%(Regular),More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Satisfied,Yes,Yes,Yes,No,Slightly Influenced,No,Yes,No,Yes,2,0,part time,Yes
+18-20,Female,Married,Secondary school,Primary school,"15,000 - 35,000 BDT",private,National,Architecture,1st y,More than 50%(Regular),NULL(1st semester),0,Limited Knowledge(????? ?????),No,Yes,Satisfied,No,No,No,Maybe,Slightly Influenced,No,No,Maybe,No,1,0,No working,No
+21-25,Male,Unmarried,Prefer not to say,Higher Secondary school,"35,000 - 50,000 BDT",private,National,Others,4th y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),No,Yes,Satisfied,No,No,No,No,Significantly Influenced,Maybe,No,No,Yes,3,0,No working,No
+21-25,Male,Unmarried,Bachelor's degree,Secondary school,"Above 50,000 BDT",private,National,CSE,4th y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Neutral,Yes,Yes,No,No,Slightly Influenced,Yes,Yes,No,Yes,3,0,No working,No
+21-25,Male,Unmarried,Higher Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,3rd y,More than 50%(Regular),2.50-3.00,2,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Dissatisfied,Yes,Maybe,Maybe,No,Not Influenced,No,Maybe,No,Yes,3,0,No working,Yes
+21-25,Female,Unmarried,Bachelor's degree,Bachelor's degree,"35,000 - 50,000 BDT",National,National,MBBS,3rd y,Less than 50%(Irregular),Less than 2.50,5,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Extremely Dissatisfied,Yes,Yes,Yes,Yes,Significantly Influenced,No,No,Maybe,Yes,3,0,No working,Yes
+21-25,Male,Unmarried,Secondary school,Primary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),More than 3.50,0,Extensive Knowledge(?????? ????? ???),Yes,Yes,Satisfied,Yes,Yes,Yes,No,Not Influenced,Maybe,Yes,No,No relationship,3,0,Full time,No
+18-20,Female,Unmarried,Prefer not to say,Prefer not to say,"15,000 - 35,000 BDT",private,"
+",CSE,1st y,More than 50%(Regular),NULL(1st semester),0,No Prior Knowledge???? ?????????? ????? ??? ??),"
+",No,Satisfied,No,No,No,No,Significantly Influenced,Yes,"
+",No,"
+","
+","
+",No working,Yes
+21-25,Female,Unmarried,Higher Secondary school,Higher Secondary school,"Below 15,000 BDT",private,National,CSE,1st y,More than 50%(Regular),More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Neutral,Yes,Yes,No,Yes,Slightly Influenced,Maybe,Yes,No,No relationship,3,"
+",No working,No
+21-25,Male,Unmarried,Bachelor's degree,Secondary school,"35,000 - 50,000 BDT",private,International,EEE,3rd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,No,Neutral,No,Maybe,Maybe,Maybe,Slightly Influenced,Maybe,Maybe,Maybe,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Master's degree or higher,Bachelor's degree,"Above 50,000 BDT",private,International,EEE,3rd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Maybe,No,Neutral,Maybe,Maybe,Maybe,Maybe,Not Influenced,Maybe,Maybe,Maybe,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Master's degree or higher,Bachelor's degree,"Above 50,000 BDT",private,International,EEE,3rd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Maybe,No,Neutral,Maybe,Maybe,Maybe,Maybe,Prefer not to say,Maybe,Maybe,Maybe,No relationship,3,0,No working,No
+21-25,Male,Married,Primary school,Higher Secondary school,"15,000 - 35,000 BDT",Public,National,EEE,3rd y,Less than 50%(Irregular),2.50-3.00,0,Limited Knowledge(????? ?????),Maybe,No,Neutral,No,Maybe,No,No,Slightly Influenced,No,Maybe,No,Maybe,2,0,No working,No
+21-25,Male,Unmarried,Master's degree or higher,Higher Secondary school,"Above 50,000 BDT",private,International,EEE,3rd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),Maybe,No,Dissatisfied,Maybe,No,Maybe,No,Moderately Influenced,No,Maybe,Yes,No,3,0,No working,No
+21-25,Male,Unmarried,Higher Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,3rd y,Less than 50%(Irregular),3.00 - 3.50,3,Extensive Knowledge(?????? ????? ???),No,Yes,Extremely Satisfied,Yes,No,No,Maybe,Moderately Influenced,Yes,No,No,Maybe,1,0,No working,Yes
+21-25,Male,Married,Master's degree or higher,Bachelor's degree,"Above 50,000 BDT",private,International,EEE,3rd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Satisfied,Yes,No,No,No,Slightly Influenced,Yes,No,No,No,2,0,No working,No
+21-25,Male,Unmarried,Bachelor's degree,Primary school,"Above 50,000 BDT",private,International,EEE,3rd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),Maybe,No,Neutral,No,No,No,No,Moderately Influenced,No,No,Maybe,No relationship,2,0,Full time,No
+21-25,Male,Unmarried,Bachelor's degree,Master's degree or higher,"Above 50,000 BDT",private,International,EEE,3rd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Extremely Dissatisfied,No,Maybe,Maybe,Maybe,Slightly Influenced,Maybe,Maybe,Maybe,Maybe,3,0,part time,No
+21-25,Male,Unmarried,Master's degree or higher,Secondary school,"Above 50,000 BDT",private,International,EEE,3rd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Maybe,No,Dissatisfied,No,No,Maybe,Maybe,Slightly Influenced,Maybe,Maybe,Maybe,No relationship,2,0,Full time,No
+21-25,Male,Unmarried,Master's degree or higher,Secondary school,"Above 50,000 BDT",private,International,EEE,3rd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),No,No,Dissatisfied,Maybe,Maybe,Maybe,Maybe,Not Influenced,No,Maybe,Maybe,No relationship,3,0,Full time,No
+21-25,Male,Married,Higher Secondary school,Higher Secondary school,"Above 50,000 BDT",private,International,Textile,3rd y,More than 50%(Regular),More than 3.50,0,Extensive Knowledge(?????? ????? ???),Maybe,No,Satisfied,Maybe,Maybe,Maybe,Maybe,Moderately Influenced,Maybe,Maybe,No,Maybe,2,0,Full time,No
+26-30,Male,Unmarried,Higher Secondary school,Bachelor's degree,"Above 50,000 BDT",private,International,EEE,3rd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),No,No,Satisfied,No,No,No,Maybe,Slightly Influenced,No,Maybe,Maybe,No relationship,3,0,Full time,No
+26-30,Male,Unmarried,Bachelor's degree,Bachelor's degree,"Above 50,000 BDT",private,International,Architecture,3rd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,Yes,Extremely Satisfied,Maybe,Maybe,Maybe,Maybe,Slightly Influenced,No,Maybe,No,No,2,"
+",part time,No
+26-30,Male,Unmarried,Bachelor's degree,Higher Secondary school,"35,000 - 50,000 BDT",Public,International,Textile,4th y,More than 50%(Regular),More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Maybe,No,Neutral,Yes,No,No,No,Not Influenced,Maybe,Maybe,Maybe,No relationship,3,0,part time,No
+26-30,Male,Unmarried,Higher Secondary school,Master's degree or higher,"Above 50,000 BDT",National,International,Textile,3rd y,More than 50%(Regular),More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Neutral,No,No,Maybe,Maybe,Prefer not to say,No,Maybe,Maybe,No relationship,2,0,Full time,No
+26-30,Female,Unmarried,Higher Secondary school,Master's degree or higher,"Above 50,000 BDT",private,International,Architecture,4th y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Maybe,No,Neutral,Maybe,No,Maybe,Maybe,Not Influenced,Maybe,Maybe,Maybe,Maybe,3,0,part time,No
+26-30,Male,Unmarried,Higher Secondary school,Bachelor's degree,"Above 50,000 BDT",National,International,Architecture,3rd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),Maybe,Yes,Extremely Satisfied,Yes,No,Maybe,Maybe,Slightly Influenced,No,Maybe,Maybe,No relationship,3,0,Full time,No
+26-30,Male,Unmarried,Bachelor's degree,Bachelor's degree,"Above 50,000 BDT",National,International,SWE,3rd y,More than 50%(Regular),More than 3.50,0,Extensive Knowledge(?????? ????? ???),Yes,Yes,Extremely Dissatisfied,Maybe,No,Maybe,Maybe,Significantly Influenced,Yes,Maybe,Maybe,No relationship,3,0,Full time,No
+18-20,Male,Unmarried,Higher Secondary school,Higher Secondary school,"Below 15,000 BDT",private,International,CSE,1st y,More than 50%(Regular),NULL(1st semester),0,Limited Knowledge(????? ?????),No,Yes,Extremely Satisfied,No,Maybe,No,Maybe,Prefer not to say,No,Yes,No,No,3,"
+",No working,No
+21-25,Male,Unmarried,Higher Secondary school,Higher Secondary school,"15,000 - 35,000 BDT",Public,National,Others,2nd y,Less than 50%(Irregular),2.50-3.00,2,Limited Knowledge(????? ?????),No,Yes,Neutral,No,Yes,Yes,No,Moderately Influenced,Yes,No,No,Maybe,2,2,part time,Yes
+26-30,Male,Married,No formal education,Secondary school,"Below 15,000 BDT",National,National,Humanities,3rd y,Less than 50%(Irregular),2.50-3.00,3,Limited Knowledge(????? ?????),No,No,Dissatisfied,Yes,Yes,Yes,Yes,Significantly Influenced,No,No,No,No,2,3,Full time,Yes
+21-25,Male,Unmarried,Bachelor's degree,Secondary school,"Above 50,000 BDT",private,International,CSE,2nd y,More than 50%(Regular),More than 3.50,2,Limited Knowledge(????? ?????),No,Yes,Satisfied,Yes,Yes,Yes,Yes,Moderately Influenced,Maybe,Maybe,No,No,3,0,No working,Yes
+18-20,Male,Unmarried,Primary school,No formal education,"Below 15,000 BDT",National,National,Humanities,2nd y,Less than 50%(Irregular),Less than 2.50,2,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Neutral,No,No,No,No,Not Influenced,No,Yes,No,Yes,1,"
+",part time,Yes
+21-25,Male,Unmarried,Primary school,No formal education,"Below 15,000 BDT",private,International,CSE,3rd y,Less than 50%(Irregular),More than 3.50,2,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Neutral,No,No,No,No,Moderately Influenced,No,Yes,No,No,2,"
+",part time,No
+18-20,Male,Unmarried,No formal education,Primary school,"Below 15,000 BDT",private,National,CIVIL,2nd y,More than 50%(Regular),3.00 - 3.50,2,Limited Knowledge(????? ?????),No,No,Neutral,No,No,No,No,Significantly Influenced,No,Yes,No,Yes,2,"
+",Full time,No
+21-25,Female,Unmarried,Bachelor's degree,Bachelor's degree,"35,000 - 50,000 BDT",private,International,CSE,1st y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Satisfied,Maybe,No,No,No,Significantly Influenced,Maybe,Yes,No,No,3,0,No working,No
+21-25,Male,Unmarried,Master's degree or higher,Master's degree or higher,"Above 50,000 BDT",private,National,CSE,4th y,More than 50%(Regular),3.00 - 3.50,3,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Dissatisfied,No,No,No,Yes,Prefer not to say,No,No,No,No,3,"
+",No working,Yes
+21-25,Male,Unmarried,Higher Secondary school,Secondary school,"15,000 - 35,000 BDT",Public,National,Others,4th y,More than 50%(Regular),3.00 - 3.50,2,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Satisfied,Maybe,No,No,No,Not Influenced,Maybe,Maybe,Yes,No,3,0,No working,No
+21-25,Female,Unmarried,Higher Secondary school,Higher Secondary school,"Above 50,000 BDT",Public,National,Humanities,4th y,More than 50%(Regular),3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Neutral,Yes,Yes,No,No,Significantly Influenced,No,No,No,No relationship,3,2,part time,No
+21-25,Male,Unmarried,Primary school,Primary school,"35,000 - 50,000 BDT",private,National,CSE,4th y,More than 50%(Regular),3.00 - 3.50,2,Limited Knowledge(????? ?????),Yes,No,Satisfied,Yes,Yes,No,No,Moderately Influenced,No,Yes,No,No relationship,3,0,Full time,No
+21-25,Male,Unmarried,Master's degree or higher,Master's degree or higher,"Above 50,000 BDT",Public,National,Textile,4th y,More than 50%(Regular),3.00 - 3.50,1,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Satisfied,Maybe,No,No,No,Significantly Influenced,Yes,Yes,Yes,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Higher Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,1st y,More than 50%(Regular),More than 3.50,1,Limited Knowledge(????? ?????),No,No,Satisfied,Maybe,Maybe,Maybe,No,Significantly Influenced,Maybe,Yes,No,No relationship,3,1,No working,No
+21-25,Male,Unmarried,Prefer not to say,Secondary school,"Below 15,000 BDT",private,National,CSE,1st y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,No,Satisfied,No,Maybe,No,Yes,Prefer not to say,Maybe,Maybe,No,No relationship,3,0,No working,No
+18-20,Male,Unmarried,Higher Secondary school,Bachelor's degree,"15,000 - 35,000 BDT",private,International,CSE,1st y,Less than 50%(Irregular),NULL(1st semester),0,No Prior Knowledge???? ?????????? ????? ??? ??),Maybe,No,Satisfied,Maybe,No,Yes,No,Moderately Influenced,Yes,Yes,No,Maybe,1,0,No working,Yes
+21-25,Female,Married,Secondary school,Secondary school,"15,000 - 35,000 BDT",Public,National,Humanities,2nd y,More than 50%(Regular),3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Satisfied,Yes,Yes,Yes,Yes,Moderately Influenced,Yes,Yes,Yes,Yes,1,"
+",No working,Yes
+21-25,Male,Married,Secondary school,Higher Secondary school,"15,000 - 35,000 BDT",private,National,EEE,2nd y,More than 50%(Regular),More than 3.50,3,Limited Knowledge(????? ?????),No,Yes,Satisfied,No,No,No,No,Moderately Influenced,No,Maybe,Yes,Maybe,2,2,No working,No
+26-30,Female,Married,Higher Secondary school,Master's degree or higher,"15,000 - 35,000 BDT",Public,National,SWE,2nd y,Less than 50%(Irregular),2.50-3.00,2,Limited Knowledge(????? ?????),No,Yes,Satisfied,Yes,No,No,Maybe,Significantly Influenced,Yes,Yes,Yes,Yes,2,3,No working,Yes
+18-20,Male,Unmarried,Secondary school,Primary school,"35,000 - 50,000 BDT",Public,National,Humanities,2nd y,More than 50%(Regular),3.00 - 3.50,0,Extensive Knowledge(?????? ????? ???),No,No,Neutral,No,No,No,No,Moderately Influenced,No,No,Yes,No,2,0,part time,No
+18-20,Female,Unmarried,Higher Secondary school,Primary school,"Below 15,000 BDT",private,National,CSE,1st y,More than 50%(Regular),NULL(1st semester),0,Limited Knowledge(????? ?????),No,No,Satisfied,No,No,No,Maybe,Not Influenced,Yes,Yes,No,No relationship,2,0,No working,No
+18-20,Male,Unmarried,Secondary school,Primary school,"15,000 - 35,000 BDT",Public,National,Others,1st y,More than 50%(Regular),NULL(1st semester),0,Limited Knowledge(????? ?????),Yes,No,Neutral,Yes,Yes,Yes,Yes,Moderately Influenced,Yes,Yes,No,No,3,0,No working,Yes
+21-25,Female,Married,Bachelor's degree,Higher Secondary school,"15,000 - 35,000 BDT",private,National,SWE,2nd y,More than 50%(Regular),2.50-3.00,2,Limited Knowledge(????? ?????),No,Yes,Neutral,No,Yes,Yes,Yes,Significantly Influenced,Maybe,Yes,Yes,Maybe,3,2,part time,Yes
+18-20,Male,Married,Primary school,Primary school,"35,000 - 50,000 BDT",National,National,Others,1st y,Less than 50%(Irregular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,Yes,Dissatisfied,No,No,Yes,Yes,Significantly Influenced,No,No,No,Maybe,2,0,part time,Yes
+21-25,Male,Married,Secondary school,Higher Secondary school,"35,000 - 50,000 BDT",Public,National,Others,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,Yes,Satisfied,Yes,Yes,No,No,Moderately Influenced,Maybe,Maybe,No,No,2,0,part time,No
+18-20,Male,Unmarried,Secondary school,Higher Secondary school,"Above 50,000 BDT",Public,National,CSE,3rd y,Less than 50%(Irregular),More than 3.50,2,Extensive Knowledge(?????? ????? ???),No,No,Extremely Satisfied,No,No,No,No,Significantly Influenced,No,No,No,No,3,"
+",part time,No
+"
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+","
+",
+26-30,Male,Unmarried,Primary school,Primary school,"Above 50,000 BDT",National,National,CSE,3rd y,Less than 50%(Irregular),Less than 2.50,2,Extensive Knowledge(?????? ????? ???),Yes,Yes,Satisfied,No,Yes,Maybe,Maybe,Significantly Influenced,No,No,No,Maybe,3,2,part time,Yes
+26-30,Male,Married,Bachelor's degree,Bachelor's degree,"35,000 - 50,000 BDT",private,National,Textile,4th y,More than 50%(Regular),3.00 - 3.50,4,Limited Knowledge(????? ?????),Yes,Yes,Extremely Dissatisfied,No,Maybe,No,Yes,Moderately Influenced,Yes,No,No,No,2,2,part time,Yes
+21-25,Female,Married,Bachelor's degree,Higher Secondary school,"15,000 - 35,000 BDT",private,National,SWE,2nd y,More than 50%(Regular),2.50-3.00,2,Limited Knowledge(????? ?????),No,Yes,Neutral,No,Yes,Yes,Yes,Significantly Influenced,Maybe,Yes,Yes,Maybe,3,2,part time,Yes
+18-20,Male,Married,Primary school,Primary school,"35,000 - 50,000 BDT",National,National,Others,1st y,Less than 50%(Irregular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,Yes,Dissatisfied,No,No,Yes,Yes,Significantly Influenced,No,No,No,Maybe,2,0,part time,Yes
+21-25,Male,Married,Secondary school,Higher Secondary school,"35,000 - 50,000 BDT",Public,National,Others,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,Yes,Satisfied,Yes,Yes,No,No,Moderately Influenced,Maybe,Maybe,No,No,2,0,part time,No
+21-25,Male,Unmarried,Bachelor's degree,Higher Secondary school,"35,000 - 50,000 BDT",private,National,CSE,3rd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),Yes,No,Neutral,Maybe,Yes,Maybe,Yes,Significantly Influenced,No,No,No,No relationship,3,0,No working,Yes
+21-25,Male,Unmarried,Higher Secondary school,Secondary school,"Above 50,000 BDT",private,National,CSE,3rd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),Yes,No,Neutral,No,Maybe,Yes,Maybe,Moderately Influenced,Maybe,Maybe,No,No,3,0,part time,No
+21-25,Female,Unmarried,Higher Secondary school,Higher Secondary school,"35,000 - 50,000 BDT",private,National,Others,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Satisfied,No,No,No,No,Moderately Influenced,Yes,Yes,No,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Bachelor's degree,Bachelor's degree,"35,000 - 50,000 BDT",private,National,CSE,3rd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Dissatisfied,Yes,Yes,No,Yes,Significantly Influenced,No,Yes,No,Yes,3,0,No working,Yes
+21-25,Female,Unmarried,Higher Secondary school,Higher Secondary school,"Below 15,000 BDT",Public,National,Others,2nd y,More than 50%(Regular),More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Satisfied,Maybe,Maybe,Maybe,Yes,Prefer not to say,Maybe,Maybe,No,No relationship,3,0,No working,No
+21-25,Female,Unmarried,Bachelor's degree,Secondary school,"35,000 - 50,000 BDT",National,National,Others,2nd y,More than 50%(Regular),More than 3.50,1,Limited Knowledge(????? ?????),Maybe,No,Dissatisfied,No,No,Yes,Yes,Moderately Influenced,Yes,No,Yes,Yes,2,1,No working,Yes
+21-25,Female,Unmarried,Higher Secondary school,Higher Secondary school,"15,000 - 35,000 BDT",private,National,CSE,1st y,More than 50%(Regular),NULL(1st semester),0,Limited Knowledge(????? ?????),Yes,No,Satisfied,No,No,No,Maybe,Significantly Influenced,Yes,Yes,No,No,2,0,No working,No
+21-25,Male,Unmarried,Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,3rd y,More than 50%(Regular),More than 3.50,1,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,Yes,Yes,Maybe,Maybe,Slightly Influenced,Maybe,Yes,No,No,3,0,No working,No
+21-25,Female,Unmarried,Bachelor's degree,Secondary school,"15,000 - 35,000 BDT",private,National,Architecture,1st y,More than 50%(Regular),3.00 - 3.50,2,Limited Knowledge(????? ?????),Yes,Yes,Neutral,No,No,No,Yes,Prefer not to say,Yes,Yes,Yes,Yes,2,1,No working,No
+21-25,Male,Married,Higher Secondary school,Secondary school,"15,000 - 35,000 BDT",private,National,Others,2nd y,More than 50%(Regular),More than 3.50,0,Extensive Knowledge(?????? ????? ???),Yes,Yes,Satisfied,Maybe,No,No,Maybe,Slightly Influenced,Maybe,Yes,No,No,1,0,part time,No
+21-25,Female,Unmarried,Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%(Irregular),3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,No,Neutral,Maybe,No,No,No,Slightly Influenced,No,Yes,No,No relationship,3,0,No working,No
+21-25,Female,Unmarried,Secondary school,Secondary school,"15,000 - 35,000 BDT",private,National,Nursing,3rd y,Less than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Satisfied,Yes,Yes,Yes,No,Significantly Influenced,Maybe,No,No,No,3,5,No working,Yes
+21-25,Male,Unmarried,Bachelor's degree,Higher Secondary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,Less than 50%(Irregular),2.50-3.00,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Neutral,No,No,No,No,Prefer not to say,Yes,Maybe,No,No,3,0,No working,No
+21-25,Female,Unmarried,Higher Secondary school,Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Neutral,Yes,No,No,No,Prefer not to say,Maybe,Yes,No,No relationship,1,0,No working,No
+21-25,Male,Unmarried,Higher Secondary school,Secondary school,"15,000 - 35,000 BDT",private,International,CSE,2nd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),No,No,Neutral,No,No,No,Yes,Moderately Influenced,Yes,Maybe,No,No relationship,3,0,Full time,No
+21-25,Male,Unmarried,Prefer not to say,Prefer not to say,"Above 50,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Neutral,Yes,Yes,No,Yes,Slightly Influenced,No,No,No,No relationship,2,0,part time,Yes
+21-25,Female,Unmarried,Higher Secondary school,Higher Secondary school,"Above 50,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,Yes,Neutral,No,No,No,Maybe,Slightly Influenced,Yes,Yes,Maybe,No relationship,3,0,No working,No
+21-25,Female,Unmarried,Secondary school,Master's degree or higher,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),2.50-3.00,1,Limited Knowledge(????? ?????),No,Yes,Neutral,Yes,Yes,Yes,Maybe,Not Influenced,Yes,Maybe,No,No relationship,1,0,No working,Yes
+21-25,Female,Married,Master's degree or higher,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,3rd y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,No,Satisfied,Yes,Yes,Yes,No,Moderately Influenced,Yes,Maybe,No,No,3,1,No working,Yes
+21-25,Male,Unmarried,Secondary school,Primary school,"35,000 - 50,000 BDT",private,National,CSE,3rd y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Extremely Satisfied,Yes,Yes,No,Yes,Significantly Influenced,Yes,No,No,No,2,0,No working,Yes
+21-25,Male,Unmarried,Higher Secondary school,Higher Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%,More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,No,Extremely Dissatisfied,No,Yes,No,No,Slightly Influenced,No,Yes,Yes,No,3,0,No working,No
+21-25,Male,Married,Master's degree or higher,Bachelor's degree,"Above 50,000 BDT",private,International,CSE,2nd y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,No,Dissatisfied,Yes,Yes,No,No,Significantly Influenced,No,Maybe,No,No relationship,2,1,No working,Yes
+21-25,Female,Married,Bachelor's degree,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,No,Satisfied,Yes,No,Yes,No,Slightly Influenced,Yes,Maybe,No,No,3,1,No working,No
+21-25,Female,Unmarried,Bachelor's degree,Secondary school,"35,000 - 50,000 BDT",private,International,CSE,2nd y,More than 50%,More than 3.50,1,Limited Knowledge(????? ?????),Yes,No,Satisfied,No,No,Yes,No,Slightly Influenced,Maybe,Maybe,No,No relationship,3,1,No working,No
+21-25,Female,Married,Bachelor's degree,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,No,Neutral,Yes,No,Maybe,No,Slightly Influenced,No,Yes,No,No relationship,2,1,No working,No
+21-25,Male,Unmarried,Master's degree or higher,Bachelor's degree,"Above 50,000 BDT",private,National,CSE,2nd y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Neutral,No,Maybe,No,No,Moderately Influenced,No,Maybe,No,Maybe,3,0,No working,No
+21-25,Male,Unmarried,Bachelor's degree,Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%,2.50-3.00,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Neutral,Yes,Yes,No,Yes,Significantly Influenced,No,Yes,No,No,2,1,part time,Yes
+21-25,Male,Married,Secondary school,Secondary school,"15,000 - 35,000 BDT",private,National,EEE,2nd y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Neutral,No,No,No,No,Slightly Influenced,Maybe,Yes,No,No,3,1,No working,No
+21-25,Female,Unmarried,Bachelor's degree,Bachelor's degree,"Above 50,000 BDT",private,National,CSE,3rd y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,No,Neutral,No,No,No,No,Prefer not to say,Maybe,Yes,No,No,3,0,No working,No
+21-25,Male,Unmarried,Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,3rd y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,Yes,Yes,No,Yes,Moderately Influenced,Yes,No,No,No,3,0,No working,Yes
+21-25,Male,Unmarried,Master's degree or higher,Higher Secondary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Neutral,No,No,No,No,Moderately Influenced,No,Yes,No,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Primary school,Primary school,"Above 50,000 BDT",private,International,CIVIL,2nd y,More than 50%,2.50-3.00,2,Limited Knowledge(????? ?????),No,No,Neutral,Maybe,No,No,No,Significantly Influenced,Yes,Yes,Yes,No relationship,3,0,No working,No
+21-25,Male,Unmarried,Secondary school,Primary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%,More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Dissatisfied,Maybe,Yes,No,Yes,Significantly Influenced,Maybe,Yes,No,Yes,3,0,part time,Yes
+21-25,Female,Married,Higher Secondary school,Secondary school,"35,000 - 50,000 BDT",National,National,Others,3rd y,More than 50%,More than 3.50,2,Limited Knowledge(????? ?????),No,No,Satisfied,No,No,No,No,Slightly Influenced,Maybe,Yes,Maybe,No relationship,1,3,No working,No
+21-25,Male,Unmarried,Bachelor's degree,Secondary school,"35,000 - 50,000 BDT",private,International,EEE,2nd y,More than 50%,3.00 - 3.50,0,Limited Knowledge(????? ?????),No,Yes,Neutral,No,No,No,No,Slightly Influenced,Maybe,Yes,No,No relationship,3,0,No working,No
+21-25,Female,Married,Higher Secondary school,Secondary school,"35,000 - 50,000 BDT",National,National,Others,3rd y,Less than 50%,More than 3.50,1,Limited Knowledge(????? ?????),No,No,Satisfied,No,No,No,No,Slightly Influenced,Maybe,Yes,Maybe,No relationship,1,4,No working,No
+21-25,Female,Unmarried,Bachelor's degree,Higher Secondary school,"35,000 - 50,000 BDT",National,National,CSE,3rd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,No,Satisfied,No,Maybe,Maybe,Maybe,Slightly Influenced,Maybe,Maybe,Maybe,Maybe,3,0,part time,No
+21-25,Female,Unmarried,Bachelor's degree,Bachelor's degree,"Above 50,000 BDT",private,National,Others,1st y,More than 50%(Regular),More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,No,Extremely Satisfied,No,Maybe,No,No,Significantly Influenced,Yes,Yes,No,No,3,0,No working,No
+21-25,Female,Married,Higher Secondary school,Secondary school,"Above 50,000 BDT",private,National,Others,1st y,More than 50%(Regular),2.50-3.00,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Neutral,Yes,Yes,No,No,Prefer not to say,No,Yes,No,Yes,3,0,No working,Yes
+21-25,Female,Unmarried,Higher Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,1st y,More than 50%(Regular),More than 3.50,0,Extensive Knowledge(?????? ????? ???),Yes,Yes,Extremely Satisfied,No,No,Maybe,No,Not Influenced,Maybe,Maybe,No,No,3,0,No working,No
+21-25,Female,Unmarried,Higher Secondary school,Higher Secondary school,"15,000 - 35,000 BDT",private,National,MBBS,2nd y,More than 50%(Regular),More than 3.50,0,Extensive Knowledge(?????? ????? ???),No,No,Extremely Satisfied,No,No,No,No,Prefer not to say,Yes,Yes,No,No,"
+",0,No working,No
+21-25,Female,Unmarried,Master's degree or higher,Master's degree or higher,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),Maybe,Yes,Satisfied,Maybe,No,No,No,Significantly Influenced,Maybe,No,No,No relationship,3,"
+",No working,No
+21-25,Female,Married,Master's degree or higher,Master's degree or higher,"35,000 - 50,000 BDT",private,National,CSE,3rd y,More than 50%(Regular),3.00 - 3.50,3,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,No,Yes,No,Yes,Moderately Influenced,Yes,Yes,No,No,3,0,part time,No
+21-25,Female,Married,Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,No,Neutral,Yes,Yes,Yes,No,Not Influenced,Maybe,Maybe,No,Maybe,3,0,No working,Yes
+21-25,Female,Unmarried,No formal education,No formal education,"Below 15,000 BDT",private,National,Others,2nd y,More than 50%(Regular),Less than 2.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Extremely Satisfied,No,Yes,No,Yes,Slightly Influenced,No,Yes,No,No relationship,3,2,No working,No
+21-25,Female,Unmarried,No formal education,No formal education,"Below 15,000 BDT",private,National,Humanities,2nd y,More than 50%(Regular),Less than 2.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Extremely Satisfied,No,Yes,No,Yes,Slightly Influenced,No,Yes,No,No relationship,3,2,No working,No
+21-25,Female,Unmarried,Higher Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),2.50-3.00,1,Limited Knowledge(????? ?????),No,Yes,Neutral,Yes,Maybe,Maybe,Maybe,Slightly Influenced,Maybe,Maybe,Maybe,Maybe,3,"
+",No working,No
+21-25,Female,Unmarried,Prefer not to say,Prefer not to say,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Neutral,Yes,No,No,Maybe,Moderately Influenced,Maybe,Maybe,Maybe,No relationship,1,0,part time,No
+21-25,Female,Unmarried,Higher Secondary school,Higher Secondary school,"Above 50,000 BDT",private,International,CSE,4th y,Less than 50%(Irregular),Less than 2.50,18,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Satisfied,Yes,Yes,No,Yes,Significantly Influenced,No,Maybe,No,No,2,1,No working,Yes
+21-25,Female,Unmarried,Higher Secondary school,Higher Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,Yes,Neutral,No,Yes,No,Yes,Slightly Influenced,Maybe,Yes,No,No relationship,3,0,No working,No
+21-25,Female,Unmarried,Master's degree or higher,Bachelor's degree,"Above 50,000 BDT",private,National,EEE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Neutral,Yes,Yes,No,Yes,Moderately Influenced,No,Yes,No,Yes,3,2,part time,Yes
+21-25,Female,Unmarried,Master's degree or higher,Bachelor's degree,"35,000 - 50,000 BDT",private,National,CSE,3rd y,More than 50%(Regular),2.50-3.00,4,Limited Knowledge(????? ?????),No,Yes,Neutral,Yes,Maybe,No,Yes,Prefer not to say,Maybe,Yes,No,Maybe,3,0,part time,No
+21-25,Female,Unmarried,Master's degree or higher,Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Dissatisfied,Yes,Maybe,Maybe,Yes,Moderately Influenced,Maybe,Maybe,Maybe,Maybe,3,0,No working,Yes
+21-25,Female,Unmarried,No formal education,Secondary school,"Below 15,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Neutral,Yes,Yes,Yes,Maybe,Moderately Influenced,Maybe,Maybe,No,No relationship,3,1,No working,No
+21-25,Female,Unmarried,Master's degree or higher,Bachelor's degree,"15,000 - 35,000 BDT",private,International,EEE,2nd y,More than 50%(Regular),2.50-3.00,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,Yes,Neutral,Yes,Maybe,Maybe,Maybe,Slightly Influenced,Maybe,Maybe,No,Maybe,3,0,No working,No
+21-25,Female,Unmarried,Secondary school,Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Neutral,Yes,Maybe,No,Maybe,Moderately Influenced,Maybe,Maybe,No,No relationship,3,1,No working,No
+18-20,Female,Unmarried,Secondary school,Primary school,"15,000 - 35,000 BDT",Public,National,Humanities,1st y,More than 50%(Regular),2.50-3.00,0,Limited Knowledge(????? ?????),No,No,Satisfied,No,Maybe,No,No,Not Influenced,Maybe,Yes,No,No relationship,"
+",0,No working,No
+21-25,Female,Unmarried,Higher Secondary school,Higher Secondary school,"15,000 - 35,000 BDT",private,"
+",CIVIL,2nd y,More than 50%(Regular),2.50-3.00,3,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Satisfied,Maybe,No,Yes,Maybe,Moderately Influenced,Maybe,Maybe,No,No,3,0,No working,No
+21-25,Female,Unmarried,Master's degree or higher,Bachelor's degree,"15,000 - 35,000 BDT",private,National,CSE,1st y,More than 50%(Regular),NULL(1st semester),0,Limited Knowledge(????? ?????),Yes,Yes,Neutral,No,No,No,Yes,Prefer not to say,Yes,Yes,Yes,No,2,0,No working,No
+21-25,Female,Unmarried,Bachelor's degree,Higher Secondary school,"Above 50,000 BDT",private,National,CSE,1st y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Neutral,No,No,No,Maybe,Not Influenced,Maybe,Yes,Yes,No,3,0,No working,No
+21-25,Female,Unmarried,Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),2.50-3.00,3,Limited Knowledge(????? ?????),No,Yes,Neutral,Yes,No,No,No,Not Influenced,Maybe,Yes,Yes,No,3,"
+",No working,No
+21-25,Female,Unmarried,Higher Secondary school,Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,No,Neutral,No,Maybe,No,Maybe,Prefer not to say,No,Maybe,Yes,No relationship,3,0,No working,No
+21-25,Female,Unmarried,Bachelor's degree,Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,Yes,Dissatisfied,No,No,Maybe,Maybe,Slightly Influenced,Maybe,Maybe,Yes,No relationship,3,0,No working,No
+21-25,Female,Unmarried,Higher Secondary school,Higher Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,No,Neutral,No,No,No,No,Slightly Influenced,Yes,Maybe,No,No relationship,1,"
+",No working,No
+21-25,Female,Unmarried,Higher Secondary school,Secondary school,"Above 50,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),No,Yes,Satisfied,No,No,No,No,Moderately Influenced,Yes,No,No,No,3,1,No working,No
+21-25,Female,Married,Bachelor's degree,Bachelor's degree,"Above 50,000 BDT",private,National,CSE,1st y,More than 50%(Regular),3.00 - 3.50,2,Limited Knowledge(????? ?????),No,Yes,Neutral,No,Yes,Yes,Yes,Moderately Influenced,No,No,Yes,Yes,1,3,No working,Yes
+21-25,Female,Unmarried,Higher Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,No,No,No,Maybe,Significantly Influenced,Yes,Yes,No,No,3,1,No working,No
+21-25,Female,Married,Master's degree or higher,Higher Secondary school,"35,000 - 50,000 BDT",private,National,CSE,3rd y,More than 50%(Regular),More than 3.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),No,No,Dissatisfied,Yes,Yes,No,Maybe,Moderately Influenced,No,Yes,Maybe,No,3,0,part time,No
+18-20,Female,Unmarried,Primary school,Primary school,"15,000 - 35,000 BDT",private,National,CSE,1st y,More than 50%(Regular),NULL(1st semester),0,Extensive Knowledge(?????? ????? ???),No,Yes,Extremely Satisfied,No,Maybe,No,Maybe,Moderately Influenced,Yes,Yes,No,No,3,"
+",No working,No
+21-25,Female,Unmarried,Higher Secondary school,Higher Secondary school,"35,000 - 50,000 BDT",private,National,NFE,1st y,More than 50%(Regular),2.50-3.00,2,Limited Knowledge(????? ?????),No,Yes,Satisfied,Maybe,Yes,Yes,Yes,Slightly Influenced,Maybe,Maybe,No,No relationship,3,0,No working,Yes
+21-25,Female,Unmarried,Bachelor's degree,Higher Secondary school,"Above 50,000 BDT",private,National,CSE,1st y,More than 50%(Regular),NULL(1st semester),0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,Yes,Satisfied,No,No,No,No,Moderately Influenced,No,Yes,No,No relationship,"
+",0,No working,No
+21-25,Female,Unmarried,Master's degree or higher,Bachelor's degree,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),More than 3.50,0,Limited Knowledge(????? ?????),Maybe,Yes,Satisfied,Maybe,Yes,Maybe,Yes,Moderately Influenced,Maybe,No,No,No relationship,3,0,No working,Yes
+21-25,Female,Unmarried,Bachelor's degree,Higher Secondary school,"15,000 - 35,000 BDT",private,National,CSE,2nd y,More than 50%(Regular),3.00 - 3.50,0,Limited Knowledge(????? ?????),Yes,No,Neutral,No,No,Maybe,No,Not Influenced,Maybe,Yes,No,No,3,0,No working,No
+21-25,Female,Unmarried,Secondary school,Secondary school,"35,000 - 50,000 BDT",private,National,CSE,1st y,More than 50%(Regular),NULL(1st semester),0,Limited Knowledge(????? ?????),Yes,Yes,Satisfied,No,No,No,No,Slightly Influenced,Maybe,Maybe,No,No,2,"
+",No working,No
+21-25,Female,Unmarried,Primary school,Primary school,"Below 15,000 BDT",private,National,CSE,1st y,More than 50%(Regular),Less than 2.50,0,No Prior Knowledge???? ?????????? ????? ??? ??),Yes,Yes,Satisfied,Yes,Yes,Yes,Maybe,Moderately Influenced,Yes,Yes,No,No relationship,3,"
+",No working,Yes
+21-25,Female,Unmarried,Master's degree or higher,Bachelor's degree,"35,000 - 50,000 BDT",private,National,Architecture,2nd y,More than 50%(Regular),More than 3.50,0,Extensive Knowledge(?????? ????? ???),Yes,No,Satisfied,No,No,Yes,No,Slightly Influenced,Yes,Yes,No,No relationship,3,0,No working,No
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+"
